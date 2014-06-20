@@ -1,4 +1,4 @@
-package parser;
+package com.gearlles.parser;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -6,8 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import graph.Map;
-import graph.Node;
+import com.gearlles.graph.Map;
+import com.gearlles.graph.Node;
 
 public class Parser {
 	char i=0;

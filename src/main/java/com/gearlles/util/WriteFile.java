@@ -1,9 +1,9 @@
-package util;
-
-import graph.Map;
+package com.gearlles.util;
 
 import java.io.FileWriter;
 import java.io.IOException;
+
+import com.gearlles.graph.Map;
 
 public class WriteFile {
 	

@@ -1,4 +1,4 @@
-package graph;
+package com.gearlles.graph;
 
 public class Node {
 

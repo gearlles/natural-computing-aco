@@ -1,4 +1,4 @@
-package tspDistanceFunctions;
+package com.gearlles.tspDistanceFunctions;
 
 public class Functions {
 	

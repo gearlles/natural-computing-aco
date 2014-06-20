@@ -1,4 +1,4 @@
-package graph;
+package com.gearlles.graph;
 import java.util.Random;
 
 public class Arest {

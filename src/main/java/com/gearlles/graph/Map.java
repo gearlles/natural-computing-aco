@@ -1,7 +1,8 @@
-package graph;
+package com.gearlles.graph;
 
 import java.util.ArrayList;
-import tspDistanceFunctions.Functions;
+
+import com.gearlles.tspDistanceFunctions.Functions;
 
 public class Map {
 	public ArrayList<Arest> paths;

@@ -1,13 +1,13 @@
-package util;
+package com.gearlles.util;
 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import parser.Parser;
-import tspDistanceFunctions.Functions;
-import graph.Arest;
-import graph.Map;
+import com.gearlles.graph.Arest;
+import com.gearlles.graph.Map;
+import com.gearlles.parser.Parser;
+import com.gearlles.tspDistanceFunctions.Functions;
 
 public class Util {
 
