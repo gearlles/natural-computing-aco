@@ -141,7 +141,6 @@ public class Colony {
 	public ArrayList<Node> runACO(Map map, int numberOfIterations)
 	{
 		Arest arest = null;
-		ArrayList<Node> lowerPath;
 		
 		for (int i = 0; i < numberOfIterations; i++)
 		{
