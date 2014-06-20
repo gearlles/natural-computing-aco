@@ -1,8 +1,6 @@
 package graph;
 import java.util.Random;
 
-import aco.*;
-
 public class Arest {
 
 	public Node source, destination;
