@@ -4,10 +4,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import com.gearlles.distance.Functions;
 import com.gearlles.graph.Arest;
 import com.gearlles.graph.Map;
 import com.gearlles.parser.Parser;
-import com.gearlles.tspDistanceFunctions.Functions;
 
 public class Util {
 

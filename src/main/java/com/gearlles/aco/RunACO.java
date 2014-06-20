@@ -10,8 +10,6 @@ import com.gearlles.util.Util;
 public class RunACO {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-
 		Parser parse = new Parser();
 		Map map = parse.parser("att48.tsp");
 

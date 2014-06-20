@@ -2,7 +2,7 @@ package com.gearlles.graph;
 
 import java.util.ArrayList;
 
-import com.gearlles.tspDistanceFunctions.Functions;
+import com.gearlles.distance.Functions;
 
 public class Map {
 	public ArrayList<Arest> paths;
